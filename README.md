@@ -3,7 +3,7 @@
 This project aims to detect fraudulent credit card transactions using decision tree algorithms. 
 I will the voting system from scratch and will also use the scikit-learn library to provide a comparative analysis of both approaches.
 
-In the future, i will also use other approaches such as Random Forest, Gradient Boosting Machines and logistic regression.
+In the future, I will also learn to use other approaches such as Random Forest, Gradient Boosting Machines and logistic regression.
 
 # Project Description
 
